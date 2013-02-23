@@ -8,6 +8,10 @@ dependencies {
 
 apply plugin: 'maven'
 
+dependencies {
+    testCompile('junit:junit:4.11')
+}
+
 repositories {
     mavenCentral()
 }
