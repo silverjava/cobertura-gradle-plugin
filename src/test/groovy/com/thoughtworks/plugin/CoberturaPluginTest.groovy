@@ -9,13 +9,6 @@ import org.junit.Test
 import com.thoughtworks.plugin.tasks.ReportTask
 import com.thoughtworks.plugin.tasks.CheckTask
 
-/**
- * Created with IntelliJ IDEA.
- * User: tw
- * Date: 2/23/13
- * Time: 3:21 PM
- * To change this template use File | Settings | File Templates.
- */
 class CoberturaPluginTest {
 
     @Test
